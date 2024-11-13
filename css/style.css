@@ -249,9 +249,7 @@ html {
    }  
 }
 @media (max-width: 450px) {
-  body{
-    height: unset;
-  }
+
    .landing .container .senior40{
       width: 200px;
     }
